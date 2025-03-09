@@ -8,7 +8,7 @@ Este projeto implementa um jogo de Sudoku em Java. Ele permite gerar tabuleiros 
 
 ## 🛠️ Tecnologias Utilizadas
 
-- Java Swing (para interface gráfica, se aplicável)
+- Java Swing (para interface gráfica)
 - Algoritmos para validação e resolução de Sudoku
 
 ## 📥 Instalação
@@ -34,7 +34,7 @@ Este projeto implementa um jogo de Sudoku em Java. Ele permite gerar tabuleiros 
 
 1. O jogo apresenta um tabuleiro de Sudoku.
 2. Preencha os espaços vazios de acordo com as regras do Sudoku.
-3. Utilize as funções disponíveis para validar ou resolver o tabuleiro.
+3. Utilize as funções disponíveis para validar.
 
 ## 🚀 Funcionalidades
 
