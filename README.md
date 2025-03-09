@@ -40,8 +40,7 @@ Este projeto implementa um jogo de Sudoku em Java. Ele permite gerar tabuleiros 
 
 - Gerador de tabuleiros de Sudoku.
 - Validação automática de soluções.
-- Possibilidade de resolver o jogo automaticamente.
-- Interface gráfica simples (caso implementada).
+- Interface gráfica simples.
 
 ## 📜 Licença
 
